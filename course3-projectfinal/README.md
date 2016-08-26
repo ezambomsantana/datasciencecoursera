@@ -14,4 +14,4 @@ You should create one R script called run_analysis.R that does the following:
 - Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.
 - Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
 
-The code is commented with the steps taken to run the tests
+The code is commented with the steps taken to run the analyses
